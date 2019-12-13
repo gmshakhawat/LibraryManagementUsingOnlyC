@@ -1,0 +1,25 @@
+ ID     BC     DATE     Type   
+-------------------------------
+1102044 b23 19/01/2017 Borrowed
+1103001 bee 01/20/2017 Borrowed
+1103042 bp6 01/21/2017 Borrowed
+1103044 bpl 19/01/2017 Borrowed
+1103044 cs2 19/01/2017 Borrowed
+1103045 b2p 18/01/2017 Borrowed
+1103045 bp2 01/21/2017 Returned
+1103045 bp2 18/01/2017 Borrowed
+1103046 b32 01/21/2017 Returned
+1103046 b32 18/01/2017 Borrowed
+1103046 nb2 01/21/2017 Borrowed
+1103047 DES 19/01/2017 Borrowed
+1103047 bbc 14/01/2017 Borrowed
+1103049 bcc 14/01/2017 Borrowed
+1103050 bb2 18/01/2017 Borrowed
+1103051 bcl 15/01/2017 Borrowed
+1103051 bu  18/01/2017 Borrowed
+1103053 pp2 19/01/2017 Borrowed
+1103106 3p4 01/21/2017 Borrowed
+4102046 42p 04/20/2017 Borrowed
+4102046 42p 04/20/2017 Returned
+4102046 bb3 04/20/2017 Borrowed
+4102046 bba 04/20/2017 Borrowed
